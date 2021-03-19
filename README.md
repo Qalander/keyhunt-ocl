@@ -1,6 +1,6 @@
 # keyhunt-ocl
 
-It is modified ersion of [oclexplorer](https://github.com/svtrostov/oclexplorer.git) by svtrostov.
+This is a modified version of [oclexplorer](https://github.com/svtrostov/oclexplorer.git) by svtrostov.
 
 To convert Bitcoin legacy addresses to RIPEMD160 hasehs use this [b58dec](https://github.com/kanhavishva/b58dec).
 
