@@ -1,4 +1,5 @@
 # keyhunt-ocl
+_Hunt for Bitcoin private keys._
 
 This is a modified version of [oclexplorer](https://github.com/svtrostov/oclexplorer.git) by svtrostov.
 
